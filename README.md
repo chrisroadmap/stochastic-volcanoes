@@ -12,7 +12,14 @@ This assumes that you are using `anaconda` and `python`. Currently, I recommend 
 ```
 $ conda env create -f environment.yml
 ```
-2. If you want to make nice version-control friendly notebooks, which will remove all output and data upon committing, run
+
+2. Activate the environment:
+
+```
+$ conda activate stochastic-volcanoes
+```
+
+3. Make clean notebooks for version control, which will remove all output and data upon committing, run
 
 ```
 $ nbstripout --install
