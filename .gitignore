@@ -1,5 +1,6 @@
-# output plots (for now)
+# output plots and results (for now)
 plots/
+output/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
