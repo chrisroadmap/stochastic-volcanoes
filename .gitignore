@@ -1,3 +1,6 @@
+# OS junk
+*.DS_Store
+
 # output plots and results (for now)
 plots/
 output/
